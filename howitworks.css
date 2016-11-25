@@ -1,0 +1,55 @@
+.brand-name {
+    color: white;
+    font-size: 25px;
+}
+.sqs-block-content {
+    max-width: 100%;
+    margin: 0px;
+    padding: 100px 34px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #282828;
+    color: rgba(255,255,255,.9);
+    font-size: 1.7rem;
+}
+.navbar-style {
+    background-color: #370852;
+}
+
+.how-it-works-image {
+    top: -142px;
+    left: 0px;
+    width: 1349px;
+    height: 884px;
+    position: relative;
+}
+
+#thumbnail {
+    margin-top: -0.50rem;
+    height: 600px !important;
+    overflow: hidden;
+}
+
+footer {
+   text-align: center;
+    height: 10rem;
+}
+
+.footer-content {
+    display: inline-block;
+    position: relative;
+    top: 35%;
+}
+
+.fa {
+    font-size: 3rem
+}
+
+.icon-container {
+    margin-right: 1rem;
+}
+
+.copyright {
+    margin-top: 3rem;
+    font-size: 2rem;
+}

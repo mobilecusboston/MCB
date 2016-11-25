@@ -1,0 +1,26 @@
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.padding-right{
+    padding-right: 8px;
+}
+.form-group.margin-left {
+    margin-left: 3.3rem;
+}
+.navbar-style {
+    background-color: #370852;
+}
+
+.brand-name {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.more-width {
+    width: 50%;
+    max-width: 200px;
+}
